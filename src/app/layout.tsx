@@ -16,7 +16,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: 'Dr. Flood Runner',
-  description: 'See Dr. Flood run. Run, Dr.Flood, run!'
+  description: 'See Dr. Flood run. Run, Dr. Flood, run!'
 };
 
 export default function RootLayout({
